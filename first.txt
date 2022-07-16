@@ -1,2 +1,6 @@
 
-i wan to learn git basics.
+
+
+
+this is my first file. i want to learn git basics.
+
