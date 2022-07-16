@@ -1,1 +1,2 @@
-i wan to learn git.
+
+i wan to learn git basics.
